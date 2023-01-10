@@ -1,4 +1,4 @@
-package edu.lucas.anatomiaclasses;
+package edu.lucas.sintaxeJava.anatomiaClasses;
 /*
  * Aluno: Lucas Thiago Saiz Timoteo
  * Data: 28/12/2022

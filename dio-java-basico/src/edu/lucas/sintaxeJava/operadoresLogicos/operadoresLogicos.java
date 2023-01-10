@@ -1,4 +1,4 @@
-package edu.lucas.operadoresLogicos;
+package edu.lucas.sintaxeJava.operadoresLogicos;
 /*
  * Aluno: Lucas Thiago Saiz Timoteo
  * Data: 05/01/2023

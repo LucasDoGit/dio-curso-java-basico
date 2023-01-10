@@ -1,4 +1,4 @@
-package edu.lucas.metodos;
+package edu.lucas.sintaxeJava.metodos;
 
 public class SmartTv {
 

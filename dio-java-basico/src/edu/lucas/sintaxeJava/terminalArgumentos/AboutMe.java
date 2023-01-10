@@ -1,4 +1,4 @@
-package edu.lucas.terminalArgumentos;
+package edu.lucas.sintaxeJava.terminalArgumentos;
 import java.util.Locale;
 import java.util.Scanner;
 /**

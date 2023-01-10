@@ -1,4 +1,4 @@
-package edu.lucas.operadores;
+package edu.lucas.sintaxeJava.operadores;
 import java.util.Date;
 
 /*

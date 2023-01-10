@@ -1,4 +1,4 @@
-package edu.lucas.metodos;
+package edu.lucas.sintaxeJava.metodos;
 /*
  * Aluno: Lucas Thiago Saiz Timoteo
  * Data: 30/12/2022

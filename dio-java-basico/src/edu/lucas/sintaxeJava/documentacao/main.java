@@ -1,4 +1,4 @@
-package edu.lucas.documentacao; 
+package edu.lucas.sintaxeJava.documentacao; 
 
 import java.util.Locale;
 import java.util.Scanner;
