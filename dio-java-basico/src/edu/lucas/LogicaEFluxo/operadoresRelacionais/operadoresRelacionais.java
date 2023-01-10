@@ -1,4 +1,4 @@
-package edu.lucas.sintaxeJava.operadoresRelacionais;
+package edu.lucas.LogicaEFluxo.operadoresRelacionais;
 /**
  * Aluno: Lucas Thiago Saiz Timoteo
  * Data: 04/01/2023
